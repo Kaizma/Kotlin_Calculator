@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin_Calculator</string>
+    <string name="label_num01">Enter First Number</string>
+    <string name="hint01">23</string>
+    <string name="label_num02">Enter Second Number</string>
+    <string name="hint02">17</string>
+</resources>
